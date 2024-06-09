@@ -45,14 +45,14 @@ function SiderMenu({
 }) {
   const items = [
     {
-      key: '1',
-      icon: <UploadOutlined />,
-      label: 'Upload',
-    },
-    {
       key: '/translate',
       icon: <SyncOutlined />,
       label: 'Translate',
+    },
+    {
+      key: '1',
+      icon: <UploadOutlined />,
+      label: 'Upload',
     },
   ]
 
@@ -64,7 +64,7 @@ function SiderMenu({
     <Menu
       theme="dark"
       mode="inline"
-      defaultSelectedKeys={['1']}
+      defaultSelectedKeys={['/translate']}
       items={items}
       onSelect={({ key }) => onSelect(key)}
     />
