@@ -1,0 +1,23 @@
+{
+  "Title": "title",
+  "couponDiscount": "{{amount}} off coupon",
+  "trustedByOver25000Brands": "Trusted by over 25000+ brands",
+  "exceptionalValueTestimonial": "\"It provides exceptional value for customer loyalty. Loloyal has significantly contributed to achieving a <div>120%</div> increase in repeat sales, resulting in an additional <bold>$680,000</bold> in revenue through our loyalty programs.\"",
+  "Common": {
+    "Branding": {
+      "appName": "Loloyal",
+      "poweredBy": "Powered by Loloyal.com",
+      "over25000Brands": "Over 25000+ brands use Loloyal to grow their business.",
+      "serveMoreCustomers": "We will continue to update and serve more customers."
+    },
+    "Icon": {
+      "title": "Icon",
+      "options": [
+        "Choose an existing icon",
+        "Upload your own icon",
+        "Don't select icon"
+      ]
+    }
+  },
+  "Arr": ["apple", "banana"]
+}

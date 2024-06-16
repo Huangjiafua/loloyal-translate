@@ -1,5 +1,10 @@
 import { createLazyFileRoute } from '@tanstack/react-router'
 
 export const Route = createLazyFileRoute('/translate/')({
-  component: () => <div>Hello /translate/!</div>
+  component: TransltePage
 })
+
+function TransltePage() {
+  // const enDir = path.join(, "en");
+  return <></>
+}

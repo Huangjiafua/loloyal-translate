@@ -1,5 +1,5 @@
 import { RouterProvider } from "@tanstack/react-router";
-import { NotFound } from "./components/common/not-found/NotFound";
+import { NotFound } from "@/components/common/not-found/NotFound";
 import { router } from ".";
 
 const App = () => {

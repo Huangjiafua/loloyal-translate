@@ -50,7 +50,7 @@ function SiderMenu({
       label: 'Translate',
     },
     {
-      key: '1',
+      key: '/upload',
       icon: <UploadOutlined />,
       label: 'Upload',
     },
